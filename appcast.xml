@@ -13,8 +13,8 @@
 <enclosure url="https://play.google.com/store/apps/details?id=com.openiotlabs.openiot&amp;hl=en" length="0" type="application/octet-stream" />
     </item>
       <item>
-        <title>Version 5.0</title>
-        <sparkle:version>5.0</sparkle:version>
+        <title>Version 3.0</title>
+        <sparkle:version>3.0</sparkle:version>
         <sparkle:maximumSystemVersion>2.0.0</sparkle:maximumSystemVersion>
     </item>
   </channel>
