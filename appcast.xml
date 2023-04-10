@@ -19,7 +19,7 @@
         <sparkle:version>1.9</sparkle:version>
         <sparkle:maximumSystemVersion>18.0.0</sparkle:maximumSystemVersion>
         <enclosure url="https://play.google.com/store/apps/details?id=com.openiotlabs.openiot&amp;hl=en" length="0" type="application/octet-stream" />
-        <enclosure url="https://apps.apple.com/in/app/io-park/id6443560522" sparkle:os="ios" />
+        <enclosure url="https://apps.apple.com/in/app/io-park/id6443560522" sparkle:version="1.9" sparkle:os="ios" />
     </item>
   </channel>
 </rss>
