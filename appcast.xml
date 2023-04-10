@@ -5,14 +5,14 @@
     <link>https://www.iopark.es/</link>
     <description>My App update information</description>
     <language>en</language>
-        <item>
+<!--         <item>
       <title>Version 1.0.0</title>
       <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>http://www.myapp.com/release-notes.html</sparkle:releaseNotesLink>
       <pubDate>Mon, 05 Apr 2023 00:00:00 GMT</pubDate>
 <enclosure url="https://play.google.com/store/apps/details?id=com.openiotlabs.openiot&amp;hl=en" length="0" type="application/octet-stream" />
 <enclosure url="https://apps.apple.com/in/app/io-park/id6443560522" sparkle:version="5.0.0" sparkle:os="ios" />
-    </item>
+    </item> -->
     
       <item>
         <title>Version 3.0</title>
